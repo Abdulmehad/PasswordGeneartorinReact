@@ -1,6 +1,7 @@
 
 
 # PasswordGeneratorinReact
+![Password Generator in React](ss.png)
 
 This repository contains a password generator application built using React and Vite. It provides a minimal setup to get React working with hot module replacement (HMR) and includes some ESLint rules.
 
