@@ -1,9 +1,16 @@
 
 
-# PasswordGeneratorinReact
+# Password Generator in React
 ![Password Generator in React](ss.png)
 
 This repository contains a password generator application built using React and Vite. It provides a minimal setup to get React working with hot module replacement (HMR) and includes some ESLint rules.
+## Live At
+1. To see the Live demo of app, follow this Link
+
+   ```shell[
+   https://passwordgeneratorrrrrr.netlify.app/
+   ```
+   This project can also be seen live at [Live Link](https://passwordgeneratorrrrrr.netlify.app/).
 
 ## Installation
 
